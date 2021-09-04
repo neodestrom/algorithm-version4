@@ -1,0 +1,20 @@
+{
+  "name": "algorithm-version4",
+  "version": "1.0.0",
+  "description": "本目录是重新复习算法第四版中的一些算法，使用typescript进行重写里面的java代码。按照目录章节，写一些重要的算法。\r # 目录\r ### 基础\r #### 栈\r #### 队列\r #### 背包\r ### 排序\r #### 初级排序算法\r ##### 选择排序\r ##### 插入排序\r ##### 希尔排序\r #### 归并排序\r #### 快速排序\r #### 优先队列\r #### 应用\r ### 查找\r #### 符号表\r #### 二叉查找树\r #### 平衡查找树\r #### 散列表\r #### 应用\r ### 图\r #### 无向图\r #### 有向图\r #### 最小生成树\r #### 最短路径\r ### 字符串\r #### 字符串排序\r #### 单词查找树\r #### 子字符串查找\r #### 正则表达式\r #### 数据压缩\r ### 背景",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neodestrom/algorithm-version4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neodestrom/algorithm-version4/issues"
+  },
+  "homepage": "https://github.com/neodestrom/algorithm-version4#readme"
+}
